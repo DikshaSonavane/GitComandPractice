@@ -1,0 +1,4 @@
+My name is sachin
+
+
+This file is created in the git bash command practice
