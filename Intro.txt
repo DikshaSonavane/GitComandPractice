@@ -1,2 +1,2 @@
-My name is Diksha
+My name is venki
 This file is created in the git bash command practice
